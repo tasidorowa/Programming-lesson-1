@@ -18,3 +18,10 @@ double prod3 = a1 * d1;
 Console.WriteLine(prod1);
 Console.WriteLine(prod2);
 Console.WriteLine(prod3);
+
+int quo = a1 / a2;
+Console.WriteLine(quo);
+
+d1 = 6;
+double quo2 = a1 / d1;
+Console.WriteLine(quo2);
