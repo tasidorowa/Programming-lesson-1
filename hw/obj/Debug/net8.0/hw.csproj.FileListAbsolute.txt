@@ -1,0 +1,15 @@
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/bin/Debug/net8.0/hw
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/bin/Debug/net8.0/hw.deps.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/bin/Debug/net8.0/hw.runtimeconfig.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/bin/Debug/net8.0/hw.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/bin/Debug/net8.0/hw.pdb
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.AssemblyInfoInputs.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.AssemblyInfo.cs
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.csproj.CoreCompileInputs.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.sourcelink.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/refint/hw.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.pdb
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/hw.genruntimeconfig.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/lesson1/hw/obj/Debug/net8.0/ref/hw.dll
